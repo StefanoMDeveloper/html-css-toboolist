@@ -1,0 +1,168 @@
+body{
+    padding:0;
+    margin: 0;
+    background-color: rgb(230, 229, 229);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+header{
+    font-size: 45px;
+    background-color: white;
+    padding: 10px 0px;
+
+}
+
+#logo{
+    margin-left: 10px;
+    vertical-align: middle;
+    
+}
+
+#logo-text{
+    color: rgb(2, 2, 61);
+    
+    font-weight:bolder;
+    vertical-align: middle;
+}
+
+.container{
+    width: 70%;
+    margin: auto;
+    background-color: white;
+    margin-top: 30px;
+    border-radius: 1%;
+}
+
+#button-section{
+    line-height: 45px;
+}
+
+.container-text{
+    width: 90%;
+    margin: auto;
+    
+}
+
+.container-text2{
+    width: 90%;
+    margin: auto;
+    padding-bottom: 30px;
+    
+}
+
+.row{
+    background-color: rgb(230, 229, 229);
+    height: 2px;
+}
+
+#task{
+    background-color: rgb(12, 178, 255);
+    border-style:solid;
+    border-color: rgb(12, 178, 255);
+    border-radius: 10%;
+    line-height: 30px;
+    border-width: 1px;
+    color: white;
+}
+
+#section{
+    background-color: white;
+    border-style:solid;
+    border-color: rgb(179, 177, 177);
+    border-radius: 10%;
+    line-height: 30px;
+    color: rgb(158, 153, 153);
+    border-width: 1px;
+}
+
+h3{ 
+    display: inline-block;
+    color: rgb(1, 1, 22);
+    
+}
+
+.green{
+    color: green;
+}
+
+.red{
+    color: red;
+}
+
+.editorial{
+    display: inline-block;
+    background-color: rgb(12, 178, 255);
+    border-style:solid;
+    border-color: rgb(12, 178, 255);
+    border-radius: 19%;
+    line-height: 30px;
+    padding: 0px 5px;
+    border-width: 1px;
+    color: white;
+    font-size: 13px;
+}
+
+.website{
+    display: inline-block;
+    background-color: rgb(243, 12, 255);
+    border-style:solid;
+    border-color: rgb(243, 12, 255);
+    border-radius: 19%;
+    line-height: 30px;
+    padding: 0px 5px;
+    border-width: 1px;
+    color: white;
+    font-size: 13px;
+}
+
+.recruiting{
+    display: inline-block;
+    background-color: rgb(73, 255, 12);
+    border-style:solid;
+    border-color: rgb(73, 255, 12);
+    border-radius: 19%;
+    line-height: 30px;
+    padding: 0px 5px;
+    border-width: 1px;
+    color: white;
+    font-size: 13px;
+}
+
+.mobile{
+    display: inline-block;
+    background-color: rgb(255, 198, 12);
+    border-style:solid;
+    border-color: rgb(255, 198, 12);
+    border-radius: 19%;
+    line-height: 30px;
+    padding: 0px 5px;
+    border-width: 1px;
+    color: white;
+    font-size: 13px;
+}
+
+.q1-goals{
+    display: inline-block;
+    background-color: rgb(133, 12, 255);
+    border-style:solid;
+    border-color: rgb(133, 12, 255);
+    border-radius: 19%;
+    line-height: 30px;
+    padding: 0px 5px;
+    border-width: 1px;
+    color: white;
+    font-size: 13px;
+}
+
+.sales{
+    display: inline-block;
+    background-color: rgb(255, 12, 44);
+    border-style:solid;
+    border-color: rgb(255, 12, 44);
+    border-radius: 29%;
+    line-height: 30px;
+    padding: 0px 5px;
+    border-width: 1px;
+    color: white;
+    font-size: 13px;
+}
